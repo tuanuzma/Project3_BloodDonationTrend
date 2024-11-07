@@ -1,0 +1,38 @@
+Country,Country Code,Day,Date,Holiday Name,Type,state
+malaysia,MY,Saturday,2022-01-01,New Year's Day,Regional Holiday,All
+malaysia,MY,Friday,2022-01-14,Birthday of the Sultan of Negeri Sembilan,Regional Holiday,Negeri Sembilan
+malaysia,MY,Tuesday,2022-01-18,Thaipusam,Regional Holiday,All
+malaysia,MY,Tuesday,2022-02-01,Chinese New Year,National Holiday,All
+malaysia,MY,Tuesday,2022-02-01,Federal Territory Day,Regional Holiday,W.P. Kuala Lumpur
+malaysia,MY,Wednesday,2022-02-02,Chinese New Year Holiday,National Holiday,All
+malaysia,MY,Friday,2022-03-04,Anniversary of Installation of the Sultan,Regional Holiday,Terengganu
+malaysia,MY,Wednesday,2022-03-23,Birthday of the Sultan of Johor,Regional Holiday,Johor
+malaysia,MY,Friday,2022-04-15,Declaration of Malacca as a Historical City,Regional Holiday,Melaka
+malaysia,MY,Friday,2022-04-15,Good Friday,Regional Holiday,"Sabah,Sarawak"
+malaysia,MY,Tuesday,2022-04-26,Birthday of the Sultan of Terengganu,Regional Holiday,Terengganu
+malaysia,MY,Sunday,2022-05-01,Labour Day,National Holiday,All
+malaysia,MY,Sunday,2022-05-15,Wesak Day,National Holiday,All
+malaysia,MY,Sunday,2022-05-22,The Sultan of Pahang Hol,Regional Holiday,Pahang
+malaysia,MY,Monday,2022-05-30,Pesta Kaamatan,Regional Holiday,Sabah
+malaysia,MY,Tuesday,2022-05-31,Pesta Kaamatan,Regional Holiday,Sabah
+malaysia,MY,Wednesday,2022-06-01,Gawai Dayak,Regional Holiday,Sarawak
+malaysia,MY,Thursday,2022-06-02,Gawai Dayak,Regional Holiday,Sarawak
+malaysia,MY,Sunday,2022-06-19,Birthday of the Sultan of Kedah,Regional Holiday,Kedah
+malaysia,MY,Thursday,2022-07-07,George Town Heritage Day,Regional Holiday,Pulau Pinang
+malaysia,MY,Saturday,2022-07-09,Birthday of the Governor of Penang,Regional Holiday,Pulau Pinang
+malaysia,MY,Friday,2022-07-22,Sarawak Day,Regional Holiday
+malaysia,MY,Saturday,2022-07-30,Birthday of the Sultan of Pahang,Regional Holiday,Pahang
+malaysia,MY,Wednesday,2022-08-24,Melaka Governor's Birthday,Regional Holiday,Melaka
+malaysia,MY,Wednesday,2022-08-31,National Day,National Holiday,All
+malaysia,MY,Saturday,2022-09-03,The Sultan of Johor Hol,Regional Holiday,Johor
+malaysia,MY,Friday,2022-09-16,Malaysia Day,National Holiday,All
+malaysia,MY,Saturday,2022-10-01,Birthday of the Governor of Sabah,Regional Holiday,Sabah
+malaysia,MY,Saturday,2022-10-08,Birthday of the Governor of Sarawak,Regional Holiday,Sarawak
+malaysia,MY,Monday,2022-10-24,Deepavali,Regional Holiday,"W.P. Kuala Lumpur,Selangor,Pulau Pinang,Johor,Perak,Sabah,Kelantan,Pahang,Negeri Sembilan,Melaka,Terengganu,Kedah"
+malaysia,MY,Friday,2022-11-04,Birthday of the Sultan of Perak,Regional Holiday,Perak
+malaysia,MY,Friday,2022-11-11,Birthday of the Sultan of Kelantan,Regional Holiday,Kelantan
+malaysia,MY,Saturday,2022-11-12,Birthday of the Sultan of Kelantan Holiday,Regional Holiday,Kelantan
+malaysia,MY,Sunday,2022-12-11,Birthday of The Sultan of Selangor,Regional Holiday,Selangor
+malaysia,MY,Saturday,2022-12-24,Christmas Eve,Regional Holiday,Sabah
+malaysia,MY,Sunday,2022-12-25,Christmas Day,National Holiday
+malaysia,MY,Monday,2022-12-26,Christmas Day (in lieu),National Holiday
